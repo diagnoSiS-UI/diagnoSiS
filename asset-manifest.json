@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/diagnoSiS/static/css/main.983bacc3.chunk.css",
+    "main.js": "/diagnoSiS/static/js/main.e17952f6.chunk.js",
+    "main.js.map": "/diagnoSiS/static/js/main.e17952f6.chunk.js.map",
+    "runtime-main.js": "/diagnoSiS/static/js/runtime-main.3ccd6e8a.js",
+    "runtime-main.js.map": "/diagnoSiS/static/js/runtime-main.3ccd6e8a.js.map",
+    "static/js/2.1e398639.chunk.js": "/diagnoSiS/static/js/2.1e398639.chunk.js",
+    "static/js/2.1e398639.chunk.js.map": "/diagnoSiS/static/js/2.1e398639.chunk.js.map",
+    "index.html": "/diagnoSiS/index.html",
+    "precache-manifest.661c3dad46b2255f45a47c94242d1f17.js": "/diagnoSiS/precache-manifest.661c3dad46b2255f45a47c94242d1f17.js",
+    "service-worker.js": "/diagnoSiS/service-worker.js",
+    "static/css/main.983bacc3.chunk.css.map": "/diagnoSiS/static/css/main.983bacc3.chunk.css.map",
+    "static/js/2.1e398639.chunk.js.LICENSE.txt": "/diagnoSiS/static/js/2.1e398639.chunk.js.LICENSE.txt",
+    "static/media/Vector 1.png": "/diagnoSiS/static/media/Vector 1.b5aba27e.png",
+    "static/media/fapesq.png": "/diagnoSiS/static/media/fapesq.3e04a24d.png",
+    "static/media/governo.png": "/diagnoSiS/static/media/governo.694d2e67.png",
+    "static/media/icones.png": "/diagnoSiS/static/media/icones.72b21325.png",
+    "static/media/logo.png": "/diagnoSiS/static/media/logo.b9fabd24.png",
+    "static/media/titulo.png": "/diagnoSiS/static/media/titulo.9c7a1c0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccd6e8a.js",
+    "static/js/2.1e398639.chunk.js",
+    "static/css/main.983bacc3.chunk.css",
+    "static/js/main.e17952f6.chunk.js"
+  ]
+}
