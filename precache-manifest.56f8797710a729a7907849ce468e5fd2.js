@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d17abe430f396ab9d553658bbecb853",
+    "revision": "50d29627bb24c971406256f95cc4e7a0",
     "url": "/diagnoSiS/index.html"
   },
   {
-    "revision": "9970f10379a2175046a6",
+    "revision": "792f2fd80b1b0ee68bbb",
     "url": "/diagnoSiS/static/css/main.983bacc3.chunk.css"
   },
   {
-    "revision": "2d888a9d1eb7b4d2979a",
-    "url": "/diagnoSiS/static/js/2.1e398639.chunk.js"
+    "revision": "38ec02cd74c4529df3c3",
+    "url": "/diagnoSiS/static/js/2.2ed8145c.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/diagnoSiS/static/js/2.1e398639.chunk.js.LICENSE.txt"
+    "url": "/diagnoSiS/static/js/2.2ed8145c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9970f10379a2175046a6",
-    "url": "/diagnoSiS/static/js/main.e17952f6.chunk.js"
+    "revision": "792f2fd80b1b0ee68bbb",
+    "url": "/diagnoSiS/static/js/main.ff75b590.chunk.js"
   },
   {
     "revision": "3cd788549f46666ae04f",
